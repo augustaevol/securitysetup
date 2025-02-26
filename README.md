@@ -26,4 +26,4 @@ If successful, you should see a message confirming you're using Tor.
 ## ⚠️ Disclaimer
 This script is designed for educational purposes. Always verify network settings before engaging in security-sensitive activities.
 
-🔒 Stay secure & hack responsibly! 🕶️
+🔒 Stay secure
